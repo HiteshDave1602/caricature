@@ -5,6 +5,7 @@
 # from PIL import Image
 
 
+
 # def decode_image(image_data):
 #     try:
 #         image = Image.open(BytesIO(image_data))

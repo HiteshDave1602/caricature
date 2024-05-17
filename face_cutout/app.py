@@ -15,6 +15,7 @@ from PIL import Image
 app = FastAPI()
 
 
+
 # @app.post("/face_segmentation/")
 # async def face_segmentation(file: UploadFile = File(...)):
 #     try:
